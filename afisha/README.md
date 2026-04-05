@@ -39,6 +39,5 @@
 
 ## Файлы
 
-- `afisha_queries.sql` — SQL-запросы для расчёта метрик
 - `afisha_analysis.ipynb` — Jupyter Notebook с EDA и проверкой гипотез
 - **Ссылка на дашборд:** [Яндекс Афиша — дашборд](https://datalens.yandex/p9w7xf37y3esa)
