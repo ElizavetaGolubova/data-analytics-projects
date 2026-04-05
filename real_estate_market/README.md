@@ -22,4 +22,4 @@
 - `real_estate_queries.sql` — все SQL-запросы с фильтрацией и категоризацией.
 - `real_estate_analysis.pdf` — аналитическая записка с выводами.
 
-**Ссылка на дашборд DataLens:** (https://datalens.yandex/0ud1xa50vrt2l?tab=23)
+**Ссылка на дашборд DataLens:** [Дашборд для агентства недвижимости](https://datalens.yandex/0ud1xa50vrt2l?tab=23)
