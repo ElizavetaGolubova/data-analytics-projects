@@ -23,4 +23,4 @@
 - `real_estate_analysis.pdf` — аналитическая записка с выводами.
 - `datalens_dashboard_link.txt` — ссылка на дашборд.
 
-**Ссылка на дашборд DataLens:** [вставьте сюда ссылку на ваш дашборд]
+**Ссылка на дашборд DataLens:** (https://datalens.yandex/0ud1xa50vrt2l?tab=23)
